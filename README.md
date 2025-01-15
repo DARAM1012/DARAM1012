@@ -17,7 +17,7 @@
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
             <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-                <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+                     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
         </li>
         <li>😊 경험 有 : 
             <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
@@ -27,7 +27,6 @@
             <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
             <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-            <img src="https://img.shields.io/badge/GitHub Pages-222222?style=for-the-badge&logo=GitHub Pages&logoColor=white">
             </li>
           </div>
     </div>
